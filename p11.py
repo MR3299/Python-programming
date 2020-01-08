@@ -1,6 +1,8 @@
-a=int(input("enter value of a"))
-b=int(input("enter value of b"))
-c=int(input("enter value of c"))
+print("Enter values of a,b,c: ")
+
+a=int(input("enter value of a :"))
+b=int(input("enter value of b :"))
+c=int(input("enter value of c :"))
 
 
 def root(a,b,c):
